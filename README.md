@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm a statistics student at Brigham Young University. I'm work as a research assistant studying stochastic processes and modeling disease progression.
 
 <!--
 **jl240/jl240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
